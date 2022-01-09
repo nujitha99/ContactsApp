@@ -1,0 +1,36 @@
+body {
+	background-color: #191964;
+}
+
+h3 {
+	padding-left: 10px;
+}
+
+.header {
+	background-color: #f1f1f1;
+	padding: 20px;
+}
+
+.column.side {
+	background-color: #f1f1f1;
+	width: 100%;
+    padding: 30px;
+    margin: 15px;
+	border-radius: 10px;
+}
+
+.column.middle {
+	background-color: #f1f1f1;
+	width: 100%;
+    padding: 30px;
+    margin: 15px;
+	border-radius: 10px;
+}
+
+.dropdown-toggle::after {
+	content: none;
+}
+
+#toast-container > * {
+	font-size: 16px;
+}
